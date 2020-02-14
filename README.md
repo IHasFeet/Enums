@@ -1,2 +1,2 @@
 # Enums
-Enumeration
+This repo contains tools and scripts for enumerations.
